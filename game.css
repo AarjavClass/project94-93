@@ -1,0 +1,9 @@
+body 
+{
+    background-color: rgb(17, 204, 237);
+}
+#player1_name, #player2_name 
+{
+font-size: 30px;
+margin-left: 15px;
+}
